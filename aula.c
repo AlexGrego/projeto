@@ -1,4 +1,4 @@
-int totalFunc = 0; 
+int totalFunc=0; 
 typedef struct 
 {
     int numero;
